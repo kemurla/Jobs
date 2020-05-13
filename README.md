@@ -1,2 +1,8 @@
-# Requirements
-- The only requirement for the project to run is to run the SQL script for creating the database that was given to me initially.
+# Overview
+- A small project that's used to show data from a existing database and an API that gives an overview of the data.
+
+# Technologies
+- ASP.NET Core
+- EntityFramework Core
+- xUnit
+- Shouldly
